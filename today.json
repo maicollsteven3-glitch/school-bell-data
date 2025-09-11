@@ -2,7 +2,7 @@
     "date": "2025-09-11",
     "weekday": 4,
     "timezone": "America/Bogota",
-    "count": 6,
+    "count": 8,
     "bells": [
         {
             "time": "06:30",
@@ -39,6 +39,18 @@
             "epoch": 1757604600,
             "duration_sec": 3,
             "label": "Cambio"
+        },
+        {
+            "time": "11:30",
+            "epoch": 1757608200,
+            "duration_sec": 3,
+            "label": "Cambio"
+        },
+        {
+            "time": "12:30",
+            "epoch": 1757611800,
+            "duration_sec": 5,
+            "label": "Salida medio día"
         }
     ]
 }
