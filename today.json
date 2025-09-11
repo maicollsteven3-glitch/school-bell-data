@@ -1,4 +1,14 @@
 {
-  "status": "init",
-  "message": "Esperando actualización desde publish_today.php"
+    "date": "2025-09-11",
+    "weekday": 4,
+    "timezone": "America/Bogota",
+    "count": 1,
+    "bells": [
+        {
+            "time": "07:30",
+            "epoch": 1757593800,
+            "duration_sec": 3,
+            "label": "Cambio"
+        }
+    ]
 }
