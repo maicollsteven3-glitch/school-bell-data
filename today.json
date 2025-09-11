@@ -2,7 +2,7 @@
     "date": "2025-09-11",
     "weekday": 4,
     "timezone": "America/Bogota",
-    "count": 12,
+    "count": 11,
     "bells": [
         {
             "time": "06:30",
@@ -21,12 +21,6 @@
             "epoch": 1757596800,
             "duration_sec": 3,
             "label": "Cambio"
-        },
-        {
-            "time": "08:40",
-            "epoch": 1757598000,
-            "duration_sec": 5,
-            "label": ""
         },
         {
             "time": "09:15",
