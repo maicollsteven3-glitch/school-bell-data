@@ -1,74 +1,7 @@
 {
-    "date": "2025-09-11",
-    "weekday": 4,
+    "date": "2025-09-15",
+    "weekday": 1,
     "timezone": "America/Bogota",
-    "count": 11,
-    "bells": [
-        {
-            "time": "06:30",
-            "epoch": 1757590200,
-            "duration_sec": 5,
-            "label": "Entrada"
-        },
-        {
-            "time": "07:25",
-            "epoch": 1757593500,
-            "duration_sec": 3,
-            "label": "Cambio"
-        },
-        {
-            "time": "08:20",
-            "epoch": 1757596800,
-            "duration_sec": 3,
-            "label": "Cambio"
-        },
-        {
-            "time": "09:15",
-            "epoch": 1757600100,
-            "duration_sec": 5,
-            "label": "Descanso salida"
-        },
-        {
-            "time": "09:35",
-            "epoch": 1757601300,
-            "duration_sec": 5,
-            "label": "Descanso entrada"
-        },
-        {
-            "time": "10:30",
-            "epoch": 1757604600,
-            "duration_sec": 3,
-            "label": "Cambio"
-        },
-        {
-            "time": "11:30",
-            "epoch": 1757608200,
-            "duration_sec": 3,
-            "label": "Cambio"
-        },
-        {
-            "time": "12:30",
-            "epoch": 1757611800,
-            "duration_sec": 5,
-            "label": "Salida medio día"
-        },
-        {
-            "time": "12:50",
-            "epoch": 1757613000,
-            "duration_sec": 3,
-            "label": "Entrada unica"
-        },
-        {
-            "time": "13:40",
-            "epoch": 1757616000,
-            "duration_sec": 3,
-            "label": "Cambio"
-        },
-        {
-            "time": "14:30",
-            "epoch": 1757619000,
-            "duration_sec": 5,
-            "label": "Salida"
-        }
-    ]
+    "count": 0,
+    "bells": []
 }
