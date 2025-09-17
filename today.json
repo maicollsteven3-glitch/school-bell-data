@@ -1,7 +1,14 @@
 {
-    "date": "2025-09-15",
-    "weekday": 1,
+    "date": "2025-09-17",
+    "weekday": 3,
     "timezone": "America/Bogota",
-    "count": 0,
-    "bells": []
+    "count": 1,
+    "bells": [
+        {
+            "time": "12:30",
+            "epoch": 1758130200,
+            "duration_sec": 5,
+            "label": "Salida medio día"
+        }
+    ]
 }
