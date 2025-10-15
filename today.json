@@ -1,60 +1,60 @@
 {
-    "date": "2025-10-14",
-    "weekday": 2,
+    "date": "2025-10-15",
+    "weekday": 3,
     "timezone": "America/Bogota",
     "count": 9,
     "bells": [
         {
             "time": "06:30",
-            "epoch": 1760441400,
-            "duration_sec": 5,
-            "label": ""
+            "epoch": 1760527800,
+            "duration_sec": 10,
+            "label": "Entrada"
         },
         {
             "time": "07:25",
-            "epoch": 1760444700,
+            "epoch": 1760531100,
+            "duration_sec": 5,
+            "label": "Cambio"
+        },
+        {
+            "time": "08:20",
+            "epoch": 1760534400,
             "duration_sec": 5,
             "label": ""
         },
         {
-            "time": "08:20",
-            "epoch": 1760448000,
+            "time": "09:15",
+            "epoch": 1760537700,
             "duration_sec": 5,
             "label": ""
         },
         {
             "time": "09:35",
-            "epoch": 1760452500,
-            "duration_sec": 7,
-            "label": "fin de descanso"
+            "epoch": 1760538900,
+            "duration_sec": 5,
+            "label": ""
         },
         {
             "time": "10:30",
-            "epoch": 1760455800,
+            "epoch": 1760542200,
             "duration_sec": 5,
             "label": ""
         },
         {
             "time": "11:30",
-            "epoch": 1760459400,
+            "epoch": 1760545800,
             "duration_sec": 5,
             "label": ""
         },
         {
             "time": "12:30",
-            "epoch": 1760463000,
+            "epoch": 1760549400,
             "duration_sec": 5,
-            "label": ""
+            "label": "Salida medio día"
         },
         {
-            "time": "13:40",
-            "epoch": 1760467200,
-            "duration_sec": 5,
-            "label": ""
-        },
-        {
-            "time": "14:30",
-            "epoch": 1760470200,
+            "time": "12:50",
+            "epoch": 1760550600,
             "duration_sec": 5,
             "label": ""
         }
