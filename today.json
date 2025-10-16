@@ -2,7 +2,7 @@
     "date": "2025-10-16",
     "weekday": 4,
     "timezone": "America/Bogota",
-    "count": 11,
+    "count": 10,
     "bells": [
         {
             "time": "06:30",
@@ -33,12 +33,6 @@
             "epoch": 1760625300,
             "duration_sec": 5,
             "label": "Descanso entrada"
-        },
-        {
-            "time": "10:30",
-            "epoch": 1760628600,
-            "duration_sec": 3,
-            "label": "Cambio"
         },
         {
             "time": "11:30",
