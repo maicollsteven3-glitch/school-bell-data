@@ -1,68 +1,68 @@
 {
-    "date": "2025-10-16",
-    "weekday": 4,
+    "date": "2025-10-20",
+    "weekday": 1,
     "timezone": "America/Bogota",
     "count": 10,
     "bells": [
         {
-            "time": "06:30",
-            "epoch": 1760614200,
-            "duration_sec": 5,
-            "label": "Entrada"
-        },
-        {
             "time": "07:25",
-            "epoch": 1760617500,
-            "duration_sec": 3,
-            "label": "Cambio"
+            "epoch": 1760963100,
+            "duration_sec": 7,
+            "label": ""
         },
         {
             "time": "08:20",
-            "epoch": 1760620800,
-            "duration_sec": 3,
-            "label": "Cambio"
+            "epoch": 1760966400,
+            "duration_sec": 7,
+            "label": ""
         },
         {
             "time": "09:15",
-            "epoch": 1760624100,
-            "duration_sec": 5,
-            "label": "Descanso salida"
+            "epoch": 1760969700,
+            "duration_sec": 7,
+            "label": ""
         },
         {
             "time": "09:35",
-            "epoch": 1760625300,
-            "duration_sec": 5,
-            "label": "Descanso entrada"
+            "epoch": 1760970900,
+            "duration_sec": 10,
+            "label": ""
         },
         {
             "time": "10:30",
-            "epoch": 1760628600,
-            "duration_sec": 3,
-            "label": "Cambio"
+            "epoch": 1760974200,
+            "duration_sec": 7,
+            "label": ""
         },
         {
             "time": "11:30",
-            "epoch": 1760632200,
-            "duration_sec": 3,
-            "label": "Cambio"
+            "epoch": 1760977800,
+            "duration_sec": 7,
+            "label": ""
         },
         {
             "time": "12:30",
-            "epoch": 1760635800,
+            "epoch": 1760981400,
             "duration_sec": 5,
-            "label": "Salida medio día"
+            "label": ""
         },
         {
             "time": "12:50",
-            "epoch": 1760637000,
-            "duration_sec": 3,
-            "label": "Entrada unica"
+            "epoch": 1760982600,
+            "duration_sec": 7,
+            "label": ""
         },
         {
             "time": "13:40",
-            "epoch": 1760640000,
-            "duration_sec": 3,
-            "label": "Cambio"
+            "epoch": 1760985600,
+            "duration_sec": 7,
+            "label": ""
+        },
+        {
+            "time": "14:30",
+            "epoch": 1760988600,
+            "duration_sec": 5,
+            "label": ""
         }
     ]
 }
