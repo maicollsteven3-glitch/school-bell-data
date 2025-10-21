@@ -1,72 +1,60 @@
 {
-    "date": "2025-10-20",
-    "weekday": 1,
+    "date": "2025-10-21",
+    "weekday": 2,
     "timezone": "America/Bogota",
-    "count": 11,
+    "count": 9,
     "bells": [
         {
             "time": "06:30",
-            "epoch": 1760959800,
-            "duration_sec": 10,
-            "label": "Entrada"
-        },
-        {
-            "time": "07:25",
-            "epoch": 1760963100,
-            "duration_sec": 7,
-            "label": ""
-        },
-        {
-            "time": "08:20",
-            "epoch": 1760966400,
-            "duration_sec": 7,
-            "label": ""
-        },
-        {
-            "time": "09:15",
-            "epoch": 1760969700,
-            "duration_sec": 7,
-            "label": ""
-        },
-        {
-            "time": "09:35",
-            "epoch": 1760970900,
-            "duration_sec": 10,
-            "label": ""
-        },
-        {
-            "time": "10:30",
-            "epoch": 1760974200,
-            "duration_sec": 7,
-            "label": ""
-        },
-        {
-            "time": "11:30",
-            "epoch": 1760977800,
-            "duration_sec": 7,
-            "label": ""
-        },
-        {
-            "time": "12:30",
-            "epoch": 1760981400,
+            "epoch": 1761046200,
             "duration_sec": 5,
             "label": ""
         },
         {
-            "time": "12:50",
-            "epoch": 1760982600,
+            "time": "07:25",
+            "epoch": 1761049500,
+            "duration_sec": 5,
+            "label": ""
+        },
+        {
+            "time": "08:20",
+            "epoch": 1761052800,
+            "duration_sec": 5,
+            "label": ""
+        },
+        {
+            "time": "09:35",
+            "epoch": 1761057300,
             "duration_sec": 7,
+            "label": "fin de descanso"
+        },
+        {
+            "time": "10:30",
+            "epoch": 1761060600,
+            "duration_sec": 5,
+            "label": ""
+        },
+        {
+            "time": "11:30",
+            "epoch": 1761064200,
+            "duration_sec": 5,
+            "label": ""
+        },
+        {
+            "time": "12:30",
+            "epoch": 1761067800,
+            "duration_sec": 5,
             "label": ""
         },
         {
             "time": "13:40",
-            "epoch": 1760985600,
-            "duration_sec": 7,
+            "epoch": 1761072000,
+            "duration_sec": 5,
             "label": ""
         },
         {
             "time": "14:30",
-            "epoch": 1760988600,
+            "epoch": 1761075000,
             "duration_sec": 5,
             "label": ""
         }
