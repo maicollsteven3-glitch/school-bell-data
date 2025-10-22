@@ -2,13 +2,19 @@
     "date": "2025-10-22",
     "weekday": 3,
     "timezone": "America/Bogota",
-    "count": 10,
+    "count": 11,
     "bells": [
         {
             "time": "06:30",
             "epoch": 1761132600,
             "duration_sec": 10,
             "label": "Entrada"
+        },
+        {
+            "time": "07:25",
+            "epoch": 1761135900,
+            "duration_sec": 5,
+            "label": "Cambio"
         },
         {
             "time": "08:20",
