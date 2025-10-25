@@ -2,13 +2,6 @@
     "date": "2025-10-25",
     "weekday": 6,
     "timezone": "America/Bogota",
-    "count": 1,
-    "bells": [
-        {
-            "time": "10:00",
-            "epoch": 1761404400,
-            "duration_sec": 5,
-            "label": ""
-        }
-    ]
+    "count": 0,
+    "bells": []
 }
