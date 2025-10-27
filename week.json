@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-10-27 12:25:32",
+    "generated_at": "2025-10-27 12:25:36",
     "timezone": "America/Bogota",
     "week": {
         "1": {
@@ -131,13 +131,8 @@
         },
         "4": {
             "name": "Jueves",
-            "count": 3,
+            "count": 2,
             "bells": [
-                {
-                    "time": "12:30",
-                    "duration_sec": 5,
-                    "label": "Salida medio día"
-                },
                 {
                     "time": "12:50",
                     "duration_sec": 3,
