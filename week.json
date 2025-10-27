@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-10-27 12:26:07",
+    "generated_at": "2025-10-27 12:26:09",
     "timezone": "America/Bogota",
     "week": {
         "1": {
@@ -136,13 +136,8 @@
         },
         "5": {
             "name": "Viernes",
-            "count": 3,
+            "count": 2,
             "bells": [
-                {
-                    "time": "12:30",
-                    "duration_sec": 10,
-                    "label": "Fin de jornada"
-                },
                 {
                     "time": "12:50",
                     "duration_sec": 5,
