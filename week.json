@@ -1,10 +1,10 @@
 {
-    "generated_at": "2025-10-27 12:03:24",
+    "generated_at": "2025-10-27 12:04:12",
     "timezone": "America/Bogota",
     "week": {
         "1": {
             "name": "Lunes",
-            "count": 10,
+            "count": 11,
             "bells": [
                 {
                     "time": "06:30",
@@ -40,6 +40,11 @@
                     "time": "11:30",
                     "duration_sec": 7,
                     "label": ""
+                },
+                {
+                    "time": "12:30",
+                    "duration_sec": 5,
+                    "label": "jornada"
                 },
                 {
                     "time": "12:50",
