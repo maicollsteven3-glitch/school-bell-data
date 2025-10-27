@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-10-27 12:22:17",
+    "generated_at": "2025-10-27 12:23:05",
     "timezone": "America/Bogota",
     "week": {
         "1": {
@@ -65,13 +65,8 @@
         },
         "2": {
             "name": "Martes",
-            "count": 15,
+            "count": 14,
             "bells": [
-                {
-                    "time": "06:30",
-                    "duration_sec": 10,
-                    "label": "Entrada"
-                },
                 {
                     "time": "06:30",
                     "duration_sec": 5,
@@ -124,13 +119,13 @@
                 },
                 {
                     "time": "12:50",
-                    "duration_sec": 5,
-                    "label": "Cambio"
+                    "duration_sec": 7,
+                    "label": ""
                 },
                 {
                     "time": "12:50",
-                    "duration_sec": 7,
-                    "label": ""
+                    "duration_sec": 5,
+                    "label": "Cambio"
                 },
                 {
                     "time": "13:40",
