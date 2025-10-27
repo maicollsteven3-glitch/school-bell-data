@@ -1,1 +1,311 @@
-
+{
+    "generated_at": "2025-10-27 10:51:03",
+    "timezone": "America/Bogota",
+    "week": {
+        "1": {
+            "name": "Lunes",
+            "count": 11,
+            "bells": [
+                {
+                    "time": "06:30",
+                    "duration_sec": 10,
+                    "label": "Entrada"
+                },
+                {
+                    "time": "07:25",
+                    "duration_sec": 7,
+                    "label": ""
+                },
+                {
+                    "time": "08:20",
+                    "duration_sec": 7,
+                    "label": ""
+                },
+                {
+                    "time": "09:15",
+                    "duration_sec": 7,
+                    "label": ""
+                },
+                {
+                    "time": "09:35",
+                    "duration_sec": 10,
+                    "label": ""
+                },
+                {
+                    "time": "10:30",
+                    "duration_sec": 7,
+                    "label": ""
+                },
+                {
+                    "time": "11:30",
+                    "duration_sec": 7,
+                    "label": ""
+                },
+                {
+                    "time": "12:30",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "12:50",
+                    "duration_sec": 7,
+                    "label": ""
+                },
+                {
+                    "time": "13:40",
+                    "duration_sec": 7,
+                    "label": ""
+                },
+                {
+                    "time": "14:30",
+                    "duration_sec": 5,
+                    "label": ""
+                }
+            ]
+        },
+        "2": {
+            "name": "Martes",
+            "count": 11,
+            "bells": [
+                {
+                    "time": "06:30",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "07:25",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "08:20",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "09:15",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "09:35",
+                    "duration_sec": 7,
+                    "label": "fin de descanso"
+                },
+                {
+                    "time": "10:30",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "11:30",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "12:30",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "12:50",
+                    "duration_sec": 5,
+                    "label": "Cambio"
+                },
+                {
+                    "time": "13:40",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "14:30",
+                    "duration_sec": 5,
+                    "label": ""
+                }
+            ]
+        },
+        "3": {
+            "name": "Miércoles",
+            "count": 11,
+            "bells": [
+                {
+                    "time": "06:30",
+                    "duration_sec": 10,
+                    "label": "Entrada"
+                },
+                {
+                    "time": "07:25",
+                    "duration_sec": 5,
+                    "label": "Cambio"
+                },
+                {
+                    "time": "08:20",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "09:15",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "09:35",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "10:30",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "11:30",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "12:30",
+                    "duration_sec": 5,
+                    "label": "Salida medio día"
+                },
+                {
+                    "time": "12:50",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "13:40",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "14:40",
+                    "duration_sec": 10,
+                    "label": ""
+                }
+            ]
+        },
+        "4": {
+            "name": "Jueves",
+            "count": 10,
+            "bells": [
+                {
+                    "time": "06:30",
+                    "duration_sec": 5,
+                    "label": "Entrada"
+                },
+                {
+                    "time": "07:25",
+                    "duration_sec": 3,
+                    "label": "Cambio"
+                },
+                {
+                    "time": "08:20",
+                    "duration_sec": 3,
+                    "label": "Cambio"
+                },
+                {
+                    "time": "09:15",
+                    "duration_sec": 5,
+                    "label": "Descanso salida"
+                },
+                {
+                    "time": "09:35",
+                    "duration_sec": 5,
+                    "label": "Descanso entrada"
+                },
+                {
+                    "time": "10:30",
+                    "duration_sec": 3,
+                    "label": "Cambio"
+                },
+                {
+                    "time": "11:30",
+                    "duration_sec": 3,
+                    "label": "Cambio"
+                },
+                {
+                    "time": "12:30",
+                    "duration_sec": 5,
+                    "label": "Salida medio día"
+                },
+                {
+                    "time": "12:50",
+                    "duration_sec": 3,
+                    "label": "Entrada unica"
+                },
+                {
+                    "time": "13:40",
+                    "duration_sec": 3,
+                    "label": "Cambio"
+                }
+            ]
+        },
+        "5": {
+            "name": "Viernes",
+            "count": 10,
+            "bells": [
+                {
+                    "time": "06:30",
+                    "duration_sec": 7,
+                    "label": "Entrada"
+                },
+                {
+                    "time": "07:25",
+                    "duration_sec": 5,
+                    "label": "2da hora"
+                },
+                {
+                    "time": "08:20",
+                    "duration_sec": 5,
+                    "label": "3ra hora"
+                },
+                {
+                    "time": "09:15",
+                    "duration_sec": 5,
+                    "label": "Descanso"
+                },
+                {
+                    "time": "09:35",
+                    "duration_sec": 7,
+                    "label": "4ta hora"
+                },
+                {
+                    "time": "10:30",
+                    "duration_sec": 5,
+                    "label": ""
+                },
+                {
+                    "time": "11:30",
+                    "duration_sec": 5,
+                    "label": "5ta hora"
+                },
+                {
+                    "time": "12:30",
+                    "duration_sec": 10,
+                    "label": "Fin de jornada"
+                },
+                {
+                    "time": "12:50",
+                    "duration_sec": 5,
+                    "label": "7 hora"
+                },
+                {
+                    "time": "13:40",
+                    "duration_sec": 5,
+                    "label": "Fin de jornada única"
+                }
+            ]
+        },
+        "6": {
+            "name": "Sábado",
+            "count": 0,
+            "bells": []
+        },
+        "7": {
+            "name": "Domingo",
+            "count": 0,
+            "bells": []
+        }
+    }
+}
