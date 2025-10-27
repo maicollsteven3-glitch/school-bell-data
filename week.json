@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-10-27 12:23:55",
+    "generated_at": "2025-10-27 12:23:58",
     "timezone": "America/Bogota",
     "week": {
         "1": {
@@ -65,16 +65,11 @@
         },
         "2": {
             "name": "Martes",
-            "count": 2,
+            "count": 1,
             "bells": [
                 {
                     "time": "11:30",
                     "duration_sec": 7,
-                    "label": ""
-                },
-                {
-                    "time": "12:30",
-                    "duration_sec": 5,
                     "label": ""
                 }
             ]
