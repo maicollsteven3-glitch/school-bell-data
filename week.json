@@ -1,5 +1,5 @@
 {
-    "generated_at": "2025-10-27 12:25:13",
+    "generated_at": "2025-10-27 12:25:16",
     "timezone": "America/Bogota",
     "week": {
         "1": {
@@ -131,13 +131,8 @@
         },
         "4": {
             "name": "Jueves",
-            "count": 9,
+            "count": 8,
             "bells": [
-                {
-                    "time": "07:25",
-                    "duration_sec": 3,
-                    "label": "Cambio"
-                },
                 {
                     "time": "08:20",
                     "duration_sec": 3,
